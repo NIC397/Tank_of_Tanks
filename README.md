@@ -4,6 +4,16 @@
 
 This project is inspired by the original game [Tank of Tanks Battle](https://apps.apple.com/gb/app/tank-of-tanks-battle/id1037969174), developed by **Orion Game** and available on the App Store. This open-source implementation is built using Python and Pygame for educational and non-commercial purposes.
 
+## Public Link on Trinket
+[Click This](https://trinket.io/pygame/5e137a431c01?outputOnly=true&showInstructions=true) and click on "Run" to try out the game!
+
+## Screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 ## Features
 
 - **Multiplayer Fun**: Up to 4 players can play simultaneously using keyboard controls.
